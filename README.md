@@ -15,8 +15,11 @@ This project aims to develop a machine learning model for classifying stars base
 
 ## Project Structure
 - **data/:** Directory to store the dataset.
-- **validation/:** Workspace for validation team.
+- **walidacja/:** Workspace for validation team.
 - **README.md:** Overview of the project and dataset.
+- **budowa_krok_1_4.ipynb:** EDA.
+- **budowa_krok_2_4.ipynb:** Feature Engineering.
+- **budowa_krok_3_4.ipynb:** Modelling.
 
 ## Developers
 
